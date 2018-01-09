@@ -3,8 +3,9 @@ import random
 import json
 import requests
 
-CLIENT_ACCESS_TOKEN = "9cbe97e8cea54202bd61be0d0d4721d2"
+CLIENT_ACCESS_TOKEN = "8e1142b7ccc545049fdb39e0bb0f9aaa"
 ai = apiai.ApiAI(CLIENT_ACCESS_TOKEN)
+# 9cbe97e8cea54202bd61be0d0d4721d2
 
 SESSION_ID = str(random.randint(2,999))
 
