@@ -67,3 +67,11 @@ hi
 Hey there, how may I help you today
 how are you?
 Sorry, I'm not trained to answer that question.
+Hi
+Hello
+how are you
+Sorry, I'm not trained to answer that question.
+how are you?
+Sorry, I'm not trained to answer that question.
+tell me about you?
+Sorry, I'm not trained to answer that question.
